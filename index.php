@@ -1,4 +1,5 @@
-<?php include 'cabecalho.php'; ?>
+<?php include 'connection.php'?>
+<?php include 'header.php' ?>
 
     <div class="container">
         <div class="row d-flex justify-content-center">
@@ -29,4 +30,4 @@
     </div>
     
 
-<?php include 'rodape.php'; ?>
+<?php include 'footer.php'; ?>
